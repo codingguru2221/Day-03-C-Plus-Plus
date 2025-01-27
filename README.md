@@ -145,6 +145,5 @@ int main() {
 Understanding data types, variables, and type conversion is a crucial step in mastering C++. Practice these concepts regularly to enhance your programming skills and build a strong foundation for more advanced topics.
 
 ---
-```
 
-By The Codex... 
+**By The Codex... **
