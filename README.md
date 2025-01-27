@@ -1,6 +1,7 @@
 # C++ Coding Journey - Day 3
 
 **Date:** January 27, 2025
+**Author:** The Codex 
 
 ---
 
@@ -143,4 +144,4 @@ Understanding data types, variables, and type conversion is a crucial step in ma
 
 ---
 
-##**By The Codex... **
+##**By The Codex... 
