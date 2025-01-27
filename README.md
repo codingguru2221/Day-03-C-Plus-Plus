@@ -1,6 +1,6 @@
 Here’s the entire content consolidated into a single README file:
 
-```markdown
+
 # C++ Coding Journey - Day 3
 
 **Date:** January 27, 2025
